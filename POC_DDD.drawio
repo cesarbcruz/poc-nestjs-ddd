@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T13:57:11.412Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="PfojPt7_D_SXvXLp3wwe" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T14:06:21.902Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="7bo85U1d-u1dmNASGFdg" version="14.9.3" type="github">
   <diagram id="qcqPcz8LdrNDXaNSJcfC" name="Page-1">
     <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="J9RusMExjl6bTPECqHxw-8" value="&lt;b&gt;Entrega Context&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="370" y="460" width="440" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="J9RusMExjl6bTPECqHxw-9" value="Produto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J9RusMExjl6bTPECqHxw-10" value="Cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="590" width="120" height="80" as="geometry" />
@@ -58,6 +55,12 @@
         </mxCell>
         <mxCell id="J9RusMExjl6bTPECqHxw-22" value="data_hora" style="text;strokeColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" vertex="1" parent="J9RusMExjl6bTPECqHxw-20">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="J9RusMExjl6bTPECqHxw-25" value="Produto" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="514" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="J9RusMExjl6bTPECqHxw-26" value="descricao" style="text;strokeColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" vertex="1" parent="J9RusMExjl6bTPECqHxw-25">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
