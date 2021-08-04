@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T12:50:46.302Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="ITJboSHOOm1nDbJvpXSr" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T12:51:44.117Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="DNjukYGbzfpfAiJl0c4H" version="14.9.3" type="github">
   <diagram id="qcqPcz8LdrNDXaNSJcfC" name="Page-1">
     <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="210" width="480" height="320" as="geometry" />
         </mxCell>
         <mxCell id="J9RusMExjl6bTPECqHxw-8" value="&lt;b&gt;Entrega Context&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="330" y="450" width="500" height="300" as="geometry" />
+          <mxGeometry x="330" y="450" width="500" height="330" as="geometry" />
         </mxCell>
         <mxCell id="J9RusMExjl6bTPECqHxw-12" value="Cliente" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="166" y="230" width="108" height="104" as="geometry" />
@@ -111,7 +111,7 @@
           <mxGeometry y="78" width="130" height="26" as="geometry" />
         </mxCell>
         <mxCell id="258nbnSrNhAqKWaCQSHZ-2" value="Entregador" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="620" width="120" height="104" as="geometry" />
+          <mxGeometry x="590" y="620" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="258nbnSrNhAqKWaCQSHZ-3" value="nome" style="text;strokeColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" vertex="1" parent="258nbnSrNhAqKWaCQSHZ-2">
           <mxGeometry y="26" width="120" height="26" as="geometry" />
@@ -119,8 +119,11 @@
         <mxCell id="258nbnSrNhAqKWaCQSHZ-5" value="cpf" style="text;strokeColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" vertex="1" parent="258nbnSrNhAqKWaCQSHZ-2">
           <mxGeometry y="52" width="120" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="258nbnSrNhAqKWaCQSHZ-4" value="tipo_transporte" style="text;strokeColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" vertex="1" parent="258nbnSrNhAqKWaCQSHZ-2">
+        <mxCell id="258nbnSrNhAqKWaCQSHZ-11" value="telefone" style="text;strokeColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" vertex="1" parent="258nbnSrNhAqKWaCQSHZ-2">
           <mxGeometry y="78" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="258nbnSrNhAqKWaCQSHZ-4" value="tipo_transporte" style="text;strokeColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" vertex="1" parent="258nbnSrNhAqKWaCQSHZ-2">
+          <mxGeometry y="104" width="120" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
